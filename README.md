@@ -1,4 +1,4 @@
-# BlueBlade ✂️
+# BlueBlade 🔵
 
 Um SaaS moderno para gestão de barbearias, com agendamento, cadastro de clientes e barbeiros, controle financeiro e interface responsiva em modo dark com tema azul cobalto (`#0047AB`). 🚀
 
